@@ -115,8 +115,8 @@ Found 1 items
 Chrome, Yandex Browser, Firefox, Safari, Internet Explorer, Other. В приведенном выше примере правильные ответы --
 Chrome, Other, Chrome, Other, Chrome, Firefox.
 
-Также по IP-адресу пользователя можно восстановить его местоположение. В директории
-`/home/sandello/data` лежат две базы IP2LOCATION.
+Также по IP-адресу пользователя можно восстановить его местоположение. В директории HDFS
+`/user/sandello/dicts` лежат две базы IP2LOCATION.
 
 В файле `IP2LOCATION-LITE-DB1.CSV` закодирована информация о соответствии стран и IP-адресов;
 в файле `IP2LOCATION-LITE-DB5.CSV` -- более точная гео-информация.
